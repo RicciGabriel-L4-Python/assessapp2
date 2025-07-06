@@ -1,0 +1,13 @@
+[versions]
+exp4j = "0.4.8"
+
+[libraries]
+exp4j = { module = "net.objecthunter:exp4j", version.ref = "exp4j" }
+androidx-core-ktx = "androidx.core:core-ktx:1.10.1"
+androidx-appcompat = "androidx.appcompat:appcompat:1.6.1"
+material = "com.google.android.material:material:1.9.0"
+androidx-activity = "androidx.activity:activity-ktx:1.7.2"
+androidx-constraintlayout = "androidx.constraintlayout:constraintlayout:2.1.4"
+junit = "junit:junit:4.13.2"
+androidx-junit = "androidx.test.ext:junit:1.1.5"
+androidx-espresso-core = "androidx.test.espresso:espresso-core:3.5.1"

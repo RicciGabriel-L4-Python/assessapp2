@@ -1,0 +1,9 @@
+<resources>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="reset_preferences">Reset Preferences</string>
+    <string name="show_preferences">Show Preferences</string>
+    <string name="example_button_text">Example Button</string>
+    <string name="error_text">Error</string>
+    <string name="zero_text">0</string>
+</resources>
